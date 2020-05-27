@@ -1,6 +1,4 @@
 # New
 I am moving forward
-
-I made these changes
-I have changed this man
+I added this
 hey
