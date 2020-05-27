@@ -2,5 +2,5 @@
 I am moving forward
 
 I made these changes
-I proposed this changes
+I have changed this
 hey
